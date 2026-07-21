@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="https://raw.githubusercontent.com/GustavoKL1/calculadora/main/public/icons.svg" width="120" alt="Calculator Icon" />
+  <img src="https://raw.githubusercontent.com/GustavoKL1/calculadora-exc01/master/public/icons.svg" width="120" alt="Calculator Icon" />
 
   # Calculadora
 
@@ -10,10 +10,10 @@
   ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square)
   ![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?style=flat-square)
   ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat-square)
-  ![CI](https://github.com/GustavoKL1/calculadora/actions/workflows/ci.yml/badge.svg)
-  ![Deploy](https://github.com/GustavoKL1/calculadora/actions/workflows/deploy.yml/badge.svg)
+  ![CI](https://github.com/GustavoKL1/calculadora-exc01/actions/workflows/ci.yml/badge.svg)
+  ![Deploy](https://github.com/GustavoKL1/calculadora-exc01/actions/workflows/deploy.yml/badge.svg)
 
-  [🔗 Live Demo](https://gustavokl1.github.io/calculadora)
+  [🔗 Live Demo](https://gustavokl1.github.io/calculadora-exc01)
 
 </div>
 
